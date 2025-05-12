@@ -18,7 +18,7 @@ This project transforms raw data into meaningful dashboards using **Power BI**, 
 - Maps 1,000+ water quality monitoring stations (rivers, wells, lakes).
 - Shows drainage areas and highlights focus on surface water.
 
-![Demographics and Monitoring Dashboard](Demographics and Environmental.png)
+![Demographics and Monitoring Dashboard](Demographics-and-Environmental.png)
 
 ---
 
@@ -28,7 +28,7 @@ This project transforms raw data into meaningful dashboards using **Power BI**, 
 - Correlates population data with changes in pH over time.
 - Heatmap shows average metric values by location to spot quality trends.
 
-![Water Quality Metrics and Trends Dashboard](Water Quality Metrics.png)
+![Water Quality Metrics and Trends Dashboard](Water-Quality-Metrics.png)
 
 > 💡 Dashboards created with **Microsoft Power BI** for interactive, layered exploration.
 
